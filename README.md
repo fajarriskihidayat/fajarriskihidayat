@@ -2,20 +2,20 @@
 <h3 align="center">A passionate Full-Stack Developer from Indonesia</h3>
 
 ### About Me
-- 🌱 I’m constantly learning about JavaScript and TypeScript, especially Web and Mobile Developer with React. 
+- 🌱 I’m constantly learning about JavaScript and TypeScript language, especially Web and Mobile Developer with React. 
 
 - 💬 Ask me about **React, Express, Android and HTML/CSS**
 
 - 📫 How to reach me **fajarrski20@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fajar-riski-hidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fajar-riski-hidayat" height="30" width="40" /></a>
 <a href="https://instagram.com/fajarrskiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fajarrskiii" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@fajarriskihidayat5833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@fajarriskihidayat5833" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="40" />
